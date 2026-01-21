@@ -3,4 +3,4 @@ Matric Number: 23CG034100
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
 Live URL: https://your-deployment-link
-GitHub Repository: https://github.com/yourusername/WineCultivar_Project
+GitHub Repository: https://github.com/TG-777/WineCultivar_Project_ThankGod-Nwankwo_23CG034100
