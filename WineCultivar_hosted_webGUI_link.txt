@@ -2,5 +2,5 @@ Name: ThankGod Nwankwo
 Matric Number: 23CG034100
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
-Live URL: https://your-deployment-link
+Live URL: https://winecultivar-project.onrender.com
 GitHub Repository: https://github.com/TG-777/WineCultivar_Project_ThankGod-Nwankwo_23CG034100
